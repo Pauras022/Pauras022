@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pauras Tarle</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **flutter and web development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pauras022](https://github.com/Pauras022)
 
